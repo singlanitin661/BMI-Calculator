@@ -2,7 +2,7 @@
 
 The Body Mass Index (BMI) is a way of estimating the amount of body fat. It's used in medicine to calculate risk of heart disease.
 The formula used for calculation is 
-BMI = (weight)/(height*height)
+**BMI = (weight)/(height*height)**
 
 I used java and xml for building this application.
 It gives green colour if person is healthy , red if overweight and yellow if person is underweight.
